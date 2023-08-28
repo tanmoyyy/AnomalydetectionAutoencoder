@@ -1,2 +1,2 @@
 # AnomalydetectionAutoencoder
-This is a tutorial for anomaly detection with Autoencoder
+This is a tutorial for anomaly detection with Autoencoder.The tutorial is based on "Anomalies, Representations, and Self-Supervision" (arXiv:2301.04660). The aim here is to reproduce the upper left panel of Figure 1 of arXiv:2301.04660. Please ensure following necessary modules are isntalled. The notebook is created for a dataset provided as in based on JHEP 05, 036 (2019),doi:10.1007/JHEP05(2019)036, arXiv:1811.10276. Please download the data from the  linek provided in JHEP 05, 036 (2019). 
